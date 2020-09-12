@@ -1,4 +1,9 @@
-<h1 align="center">Hi <img src="Hi.gif" width="40px" />, I'm Wake</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MrWakeCZ/MrWakeCZ/master/Hi.gif" width="40px" />, I'm Wake</h1>
+
+#### I'm a Full-Stack Developer working in Prague, Czech republic.
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.java`
+- 🥅 2020 Goals: Contribute more to Open Source projects and sleep more!
+- ⚡ Fun fact: Everything for me started with Minecraft
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -44,3 +49,11 @@ IntelliJ                 3 hrs 9 mins        █████░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
