@@ -1,9 +1,10 @@
 name: Rebuild profile
 
-on: [push]
-  #schedule:
-  #  # Every 12 hrous
-  #  - cron: '0 12,0 * * *'
+on:
+  schedule:
+    # Every 12 hrous
+    - cron: '0 12,0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,7 +20,3 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
