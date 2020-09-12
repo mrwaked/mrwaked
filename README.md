@@ -5,6 +5,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and sleep more!
 - ⚡ Fun fact: Everything for me started with Minecraft
 
+#### 🎧 Spotify
+[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/wakeecz)
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
