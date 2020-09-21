@@ -58,11 +58,11 @@ VS Code                  3 hrs 7 mins        ███░░░░░░░░�
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com//waked-cz/corgi/issues/25) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
-2. ❗️ Closed issue [#50](https://github.com//waked-cz/corgi/issues/50) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
-3. ❗️ Closed issue [#61](https://github.com//waked-cz/corgi/issues/61) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
-4. 🗣 Commented on [#61](https://github.com//waked-cz/corgi/issues/61) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
-5. ❗️ Opened issue [#87](https://github.com//waked-cz/corgi/issues/87) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
+1. 🎉 Merged PR [#10](https://github.com//craftmania-cz/craftmanager/pull/10) in [craftmania-cz/craftmanager](https://github.com//craftmania-cz/craftmanager)
+2. 🎉 Merged PR [#11](https://github.com//craftmania-cz/craftmanager/pull/11) in [craftmania-cz/craftmanager](https://github.com//craftmania-cz/craftmanager)
+3. ❗️ Closed issue [#25](https://github.com//waked-cz/corgi/issues/25) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
+4. ❗️ Closed issue [#50](https://github.com//waked-cz/corgi/issues/50) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
+5. ❗️ Closed issue [#61](https://github.com//waked-cz/corgi/issues/61) in [waked-cz/corgi](https://github.com//waked-cz/corgi)
 <!--END_SECTION:activity-->
 
 </details>
