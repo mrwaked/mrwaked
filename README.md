@@ -58,11 +58,11 @@ IntelliJ                 1 hr 15 mins        ██░░░░░░░░░�
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/craftmania-cz/craftmanager/pull/12) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
-2. 🗣 Commented on [#12](https://github.com/craftmania-cz/craftmanager/issues/12) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
-3. 🎉 Merged PR [#10](https://github.com/craftmania-cz/craftmanager/pull/10) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
-4. 🎉 Merged PR [#11](https://github.com/craftmania-cz/craftmanager/pull/11) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
-5. ❗️ Closed issue [#25](https://github.com/waked-cz/corgi/issues/25) in [waked-cz/corgi](https://github.com/waked-cz/corgi)
+1. ❗️ Opened issue [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
+2. 🎉 Merged PR [#12](https://github.com/craftmania-cz/craftmanager/pull/12) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
+3. 🗣 Commented on [#12](https://github.com/craftmania-cz/craftmanager/issues/12) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
+4. 🎉 Merged PR [#10](https://github.com/craftmania-cz/craftmanager/pull/10) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
+5. 🎉 Merged PR [#11](https://github.com/craftmania-cz/craftmanager/pull/11) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
 <!--END_SECTION:activity-->
 
 </details>
