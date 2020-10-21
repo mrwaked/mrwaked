@@ -58,11 +58,11 @@ VS Code                  9 mins              ░░░░░░░░░░░�
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/craftmania-cz/craftlobby/issues/6) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
-2. ❗️ Closed issue [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
-3. 🗣 Commented on [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
-4. 🎉 Merged PR [#13](https://github.com/craftmania-cz/craftmanager/pull/13) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
-5. 💪 Opened PR [#13](https://github.com/craftmania-cz/craftmanager/pull/13) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
+1. ❌ Closed PR [#88](https://github.com/waked-cz/corgi/pull/88) in [waked-cz/corgi](https://github.com/waked-cz/corgi)
+2. 🗣 Commented on [#6](https://github.com/craftmania-cz/craftlobby/issues/6) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
+3. ❗️ Closed issue [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
+4. 🗣 Commented on [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
+5. 🎉 Merged PR [#13](https://github.com/craftmania-cz/craftmanager/pull/13) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
 <!--END_SECTION:activity-->
 
 </details>
