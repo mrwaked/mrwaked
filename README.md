@@ -57,11 +57,11 @@ VS Code                  4 hrs 16 mins       █████░░░░░░�
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/craftmania-cz/craftlobby/pull/7) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
-2. ❌ Closed PR [#88](https://github.com/waked-cz/corgi/pull/88) in [waked-cz/corgi](https://github.com/waked-cz/corgi)
-3. 🗣 Commented on [#6](https://github.com/craftmania-cz/craftlobby/issues/6) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
-4. ❗️ Closed issue [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
-5. 🗣 Commented on [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
+1. 🎉 Merged PR [#2](https://github.com/craftmania-cz/craftcore/pull/2) in [craftmania-cz/craftcore](https://github.com/craftmania-cz/craftcore)
+2. 🎉 Merged PR [#7](https://github.com/craftmania-cz/craftlobby/pull/7) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
+3. ❌ Closed PR [#88](https://github.com/waked-cz/corgi/pull/88) in [waked-cz/corgi](https://github.com/waked-cz/corgi)
+4. 🗣 Commented on [#6](https://github.com/craftmania-cz/craftlobby/issues/6) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
+5. ❗️ Closed issue [#574](https://github.com/Zrips/Residence/issues/574) in [Zrips/Residence](https://github.com/Zrips/Residence)
 <!--END_SECTION:activity-->
 
 </details>
