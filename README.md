@@ -54,9 +54,9 @@ IntelliJ                 48 mins             ████░░░░░░░�
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/craftmania-cz/craftmanager/pull/14) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
-2. 🎉 Merged PR [#89](https://github.com/waked-cz/corgi/pull/89) in [waked-cz/corgi](https://github.com/waked-cz/corgi)
-3. 🗣 Commented on [#14](https://github.com/craftmania-cz/craftmanager/issues/14) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
+1. 🎉 Merged PR [#6](https://github.com/craftmania-cz/craftlobby/pull/6) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
+2. 🎉 Merged PR [#14](https://github.com/craftmania-cz/craftmanager/pull/14) in [craftmania-cz/craftmanager](https://github.com/craftmania-cz/craftmanager)
+3. 🎉 Merged PR [#89](https://github.com/waked-cz/corgi/pull/89) in [waked-cz/corgi](https://github.com/waked-cz/corgi)
 4. 🎉 Merged PR [#2](https://github.com/craftmania-cz/craftcore/pull/2) in [craftmania-cz/craftcore](https://github.com/craftmania-cz/craftcore)
 5. 🎉 Merged PR [#7](https://github.com/craftmania-cz/craftlobby/pull/7) in [craftmania-cz/craftlobby](https://github.com/craftmania-cz/craftlobby)
 <!--END_SECTION:activity-->
