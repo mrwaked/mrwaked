@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer working in Prague, Czech republic.
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.java`
-- 🥅 2020 Goals: Contribute more to Open Source projects and sleep more!
+- 🥅 2021 Goals: Contribute more to Open Source projects and sleep more!
 - ⚡ Fun fact: Everything for me started with Minecraft
 
 <!--START_SECTION:waka-->
