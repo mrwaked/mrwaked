@@ -6,8 +6,6 @@
 - ⚡ Fun fact: Everything for me started with Minecraft
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C217%20hrs%2044%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -50,5 +48,5 @@ VS Code                  52 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 13/03/2022 12:02:40 UTC
+ Last Updated on 14/03/2022 00:07:09 UTC
 <!--END_SECTION:waka-->
