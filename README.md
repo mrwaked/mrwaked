@@ -5,8 +5,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects and sleep more!
 - ⚡ Fun fact: Everything for me started with Minecraft
 
-From 2022, every repository is moved to [Gitlab](https://gitlab.com/kraljoseff).
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C302%20hrs%2010%20mins-blue)
 
