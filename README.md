@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Everything for me started with Minecraft
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C846%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C845%20hrs%2056%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,5 +50,5 @@ IntelliJ                 4 hrs 17 mins       ███████░░░░�
 ```
 
 
- Last Updated on 08/12/2022 12:03:14 UTC
+ Last Updated on 09/12/2022 00:05:22 UTC
 <!--END_SECTION:waka-->
