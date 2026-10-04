@@ -23,4 +23,4 @@
 - **[Rareroll]()** - Fun project, daily generator random number which represents ticket in train. Then who rolled the best today?
 
 #### 🟧 Retired projects
-- **[CraftMania](https://craftmania.cz/)** - The Biggest Czech Minecraft network if minigames and classic servers.
+- **[CraftMania](https://craftmania.cz/)** - The Biggest Czech Minecraft network for minigames and classic servers.
