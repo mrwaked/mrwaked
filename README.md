@@ -3,7 +3,7 @@
 <p align="center">I'm a Full-Stack Developer working in 🇨🇿 Prague, Czech Republic. Currently working at <a href="https://signageos.io/" target="_blank">signageOS</a> as Core Apps developer.</p>
 
 <p align="center">
-  <a href="https://mrwake.cz">Personal website</a> •
+  <a href="https://mrwake.cz" target="_blank">Personal website</a> •
   <a href="https://www.linkedin.com/in/joseffkral/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/mrwaked" target="_blank">Github</a> •
   <a href="mailto:joseff.kral@gmail.com" target="_blank">Email</a>
