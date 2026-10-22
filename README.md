@@ -20,7 +20,7 @@
 - **[EmoteLog]()** - Discord bot for scrapping written emotes and making comprehensive metrics about it.
 - **[Stocksee]()** - AI Discord bot connected to Stocks for generating guides how to invest, and stock fundamentals.
 - **[Glowtide]()** - Application for Apple devices for metering Golden hour based the weather and climate changes.
-- **[Rareroll]()** - Fun project, daily generator random number which represents ticket in train. Then who rolled the best today?
+- **[Rareroll](https://rareroll.app/)** - Fun project, daily generator random number which represents ticket in train. Then who rolled the best today?
 
 #### 🟧 Retired projects
 - **[CraftMania](https://craftmania.cz/)** - The Biggest Czech Minecraft network for minigames and classic servers.
